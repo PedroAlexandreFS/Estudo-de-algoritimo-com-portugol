@@ -9,7 +9,13 @@ inicio
    Escreva("Em que ano estamos? ")
    leia(Anoat)
    Idade <- Anoat - AnoN
-   Escreva("Sua idade é : ",Idade)
+   Escreval("Sua idade é : ",Idade)
+   se (Idade >= 18) entao
+      Escreva("você está na maioridade.")
+   senao
+      Escreva("você é menor de idade.")
+   fimse
+
 
 
 
