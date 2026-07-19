@@ -10,10 +10,15 @@ Inicio
    Escreva("digite a segunda nota: " )
    leia(N2)
    M <- (n1 + n2) / 2
+   Escreval("Sua média é: ",M)
    se (M >= 7) entao
       Escreva("Aprovado")
    senao
-      Escreva("reprovado")
+      se (M >= 5) e (M < 7) entao
+         EScreva("Recuperação")
+      senao
+         Escreva("Reprovado")
+      fimse
    fimse
 
 
