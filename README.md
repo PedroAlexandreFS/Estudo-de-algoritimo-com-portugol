@@ -17,12 +17,12 @@ Este repositório foi criado para as minhas atividades práticas de lógica de p
 * APTO À DIRIGIR.ALG: descubra se está apto a dirigir.
 * APROVADO OU REPROVADO.ALG: saber se o aluno foi aprovado através da média de duas notas.
 * NOTA A A F.ALG: Dertemina o desepenho da nota do aluno
-* FUTEBOL.ALG: dertemina o resultado do jogo
+* FUTEBOL.ALG: determina o resultado do jogo
 
 
 ## ATIVIDADE ESCOLHA CASO
-* CRIANÇAESPERANÇA: algoritimo simulando doações
-* SALARIO: Escolhando solario de acordo com depedentes
+* CRIANÇAESPERANÇA.ALG: algoritimo simulando doações
+* SALARIO.ALG: Escolhando salário de acordo com dependentes
 
 ## ATIVIDADE DE REPETIÇÃO
 * REAIS PARA DOLAR 4 VEZES.ALG:melhoria para converter o dinheiro mais de uma vez
