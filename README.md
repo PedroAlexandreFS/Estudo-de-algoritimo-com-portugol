@@ -30,7 +30,7 @@ Este repositório foi criado para as minhas atividades práticas de lógica de p
 * CONTADOR ATE ONDE QUISER.ALG: um contador numerico até onde quiser
 * CONTAGEM INTELIGENTE.ALG:  contagem de 1 a 10 ou 10 a 1
 * MELHOR ALUNO.ALG: descobrir qual foi maior nota e o nome do aluno
-* 
+* CONTADOR DE 1 A 10.ALG: contador de um ate 10 com repetição
 
   
 # TECNOLOGIAS
