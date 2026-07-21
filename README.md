@@ -24,6 +24,14 @@ Este repositório foi criado para as minhas atividades práticas de lógica de p
 * CRIANÇAESPERANÇA: algoritimo simulando doações
 * SALARIO: Escolhando solario de acordo com depedentes
 
+## ATIVIDADE DE REPETIÇÃO
+* REAIS PARA DOLAR 4 VEZES.ALG:melhoria para converter o dinheiro mais de uma vez
+* SOMADORNUMERICO.ALG: soma varios numeros atraves da repetição
+* CONTADOR ATE ONDE QUISER.ALG: um contador numerico até onde quiser
+* CONTAGEM INTELIGENTE.ALG:  contagem de 1 a 10 ou 10 a 1
+* MELHOR ALUNO.ALG: descobrir qual foi maior nota e o nome do aluno
+* 
+
   
 # TECNOLOGIAS
 * portugol / visualg
