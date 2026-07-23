@@ -32,6 +32,12 @@ Este repositório foi criado para as minhas atividades práticas de lógica de p
 * MELHOR ALUNO.ALG: descobrir qual foi maior nota e o nome do aluno
 * CONTADOR DE 1 A 10.ALG: contador de um ate 10 com repetição
 
+## ATIVIDADE COM REPITA
+* SOMADO NUMERICO COM REPITA.ALG: mesmo somado mas dessa vez usando o repita
+* TABUADA.ALG: fazendo a tabuada com repita
+
+
+
   
 # TECNOLOGIAS
 * portugol / visualg
