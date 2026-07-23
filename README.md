@@ -16,28 +16,28 @@ Este repositório foi criado para as minhas atividades práticas de lógica de p
 * IMC COM CONDICIONAL.ALG: cálculo para saber se está acima do peso ou não.
 * APTO À DIRIGIR.ALG: descubra se está apto a dirigir.
 * APROVADO OU REPROVADO.ALG: saber se o aluno foi aprovado através da média de duas notas.
-* NOTA A A F.ALG: Dertemina o desepenho da nota do aluno
-* FUTEBOL.ALG: determina o resultado do jogo
+* NOTA A A F.ALG: Dertemina o desepenho da nota do aluno.
+* FUTEBOL.ALG: determina o resultado do jogo.
 
 
 ## ATIVIDADE ESCOLHA CASO
-* CRIANÇAESPERANÇA.ALG: algoritimo simulando doações
-* SALARIO.ALG: Escolhando salário de acordo com dependentes
+* CRIANÇAESPERANÇA.ALG: algoritimo simulando doações.
+* SALARIO.ALG: Escolhando salário de acordo com dependentes.
 
 ## ATIVIDADE DE REPETIÇÃO
-* REAIS PARA DOLAR 4 VEZES.ALG:melhoria para converter o dinheiro mais de uma vez
-* SOMADORNUMERICO.ALG: soma varios numeros atraves da repetição
-* CONTADOR ATE ONDE QUISER.ALG: um contador numerico até onde quiser
-* CONTAGEM INTELIGENTE.ALG:  contagem de 1 a 10 ou 10 a 1
-* MELHOR ALUNO.ALG: descobrir qual foi maior nota e o nome do aluno
-* CONTADOR DE 1 A 10.ALG: contador de um ate 10 com repetição
+* REAIS PARA DOLAR 4 VEZES.ALG:melhoria para converter o dinheiro mais de uma vez.
+* SOMADORNUMERICO.ALG: soma varios numeros atraves da repetição.
+* CONTADOR ATE ONDE QUISER.ALG: um contador numerico até onde quiser.
+* CONTAGEM INTELIGENTE.ALG:  contagem de 1 a 10 ou 10 a 1.
+* MELHOR ALUNO.ALG: descobrir qual foi maior nota e o nome do aluno.
+* CONTADOR DE 1 A 10.ALG: contador de um ate 10 com repetição.
 
 ## ATIVIDADE COM REPITA
-* SOMADO NUMERICO COM REPITA.ALG: mesmo somado mas dessa vez usando o repita
-* TABUADA.ALG: fazendo a tabuada com repita
-
+* SOMADO NUMERICO COM REPITA.ALG: mesmo somado mas dessa vez usando o repita.
+* TABUADA.ALG: fazendo a tabuada com repita.
+* ENCONTRANDO O NUMERO NEGATIVO.ALG: encontrado o numero negativo de acordo com a sequência de numeros digitados pelo usuario.
 
 
   
 # TECNOLOGIAS
-* portugol / visualg
+* portugol / visualg.
