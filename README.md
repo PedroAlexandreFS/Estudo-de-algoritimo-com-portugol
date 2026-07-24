@@ -36,6 +36,9 @@ Este repositório foi criado para as minhas atividades práticas de lógica de p
 * SOMADO NUMERICO COM REPITA.ALG: mesmo somado mas dessa vez usando o repita.
 * TABUADA.ALG: fazendo a tabuada com repita.
 * ENCONTRANDO O NUMERO NEGATIVO.ALG: encontrado o numero negativo de acordo com a sequência de numeros digitados pelo usuario.
+* (ALG): descubra se o numero é primo ou não.
+* REPETIÇÃO COM OPÇÕES.ALG: contador com opções de escolha de 1 a 10 ou 10 a 1.
+* SELETOR DE PESSOAS.ALG: selecionar pessoas com opções de carateristica especificas.
 
 
   
