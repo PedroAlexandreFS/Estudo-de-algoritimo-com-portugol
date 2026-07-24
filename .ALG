@@ -1,4 +1,4 @@
-Algoritmo "ENCONTRE O NUMERO PRIMO
+Algoritmo "ENCONTRE O NUMERO PRIMO"
 
 Var
    C, N,CD: inteiro
@@ -16,9 +16,9 @@ Inicio
       C <- C + 1
    ate(C > N)
    se (CD > 2) entao
-      EscrevaL("esse numero", N, " Não é primo")
+      EscrevaL("esse numero", N, " NÃ£o Ã© primo")
    senao
-      EscrevaL("esse numero é primo")
+      EscrevaL("esse numero Ã© primo")
    fimse
 
 Fimalgoritmo
