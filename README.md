@@ -40,6 +40,11 @@ Este repositório foi criado para as minhas atividades práticas de lógica de p
 * REPETIÇÃO COM OPÇÕES.ALG: contador com opções de escolha de 1 a 10 ou 10 a 1.
 * SELETOR DE PESSOAS.ALG: selecionar pessoas com opções de carateristica especificas.
 
+## ATIVIDADE COM PARA
+* DE 10 ATÉ 1 USANDO PARA: contador usando "para" outro metodo de repetição.
+* COMBIAÇÕES.ALG: combinação de numeros.
+* PARES.ALG: Descobrindo os pares no numeros.
+* 
 
   
 # TECNOLOGIAS
