@@ -44,7 +44,7 @@ Este repositório foi criado para as minhas atividades práticas de lógica de p
 * DE 10 ATÉ 1 USANDO PARA: contador usando "para" outro metodo de repetição.
 * COMBIAÇÕES.ALG: combinação de numeros.
 * PARES.ALG: Descobrindo os pares no numeros.
-* 
+* LENDO VALORES ENTRE DOIS NUMEROS.ALG: Encontre valores entre dois numeros.
 
   
 # TECNOLOGIAS
