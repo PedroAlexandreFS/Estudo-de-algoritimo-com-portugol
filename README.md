@@ -48,6 +48,11 @@ Este repositório foi criado para as minhas atividades práticas de lógica de p
 * SEQUÊNCIA DE FIBINACCI.ALG: fazendo a sequência de fibonacci com repetição.
 * ANALISADOR DE VALORES.ALG: digita os valores paea ser analisado.
 
+##  ATIVIDADE COM PROCEDIMENTO
+* SOMAPARAMETROREFERENCIA.ALG: soma usando procedimento com referencia.
+* SEQUENCIADEFIBONACCI COM PROCEDIMENTO.ALG:  mesma sequencia só que usando procedimento.
+* PAR OU IMPAR.ALG: mesmo algoritmo de par ou impar usando procedimento.
+
   
 # TECNOLOGIAS
 * portugol / visualg.
