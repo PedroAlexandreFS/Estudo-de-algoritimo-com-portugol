@@ -45,6 +45,8 @@ Este repositório foi criado para as minhas atividades práticas de lógica de p
 * COMBIAÇÕES.ALG: combinação de numeros.
 * PARES.ALG: Descobrindo os pares no numeros.
 * LENDO VALORES ENTRE DOIS NUMEROS.ALG: Encontre valores entre dois numeros.
+* SEQUÊNCIA DE FIBINACCI.ALG: fazendo a sequência de fibonacci com repetição.
+* ANALISADOR DE VALORES.ALG: digita os valores paea ser analisado.
 
   
 # TECNOLOGIAS
