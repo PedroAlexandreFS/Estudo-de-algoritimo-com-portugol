@@ -52,11 +52,12 @@ Este repositório foi criado para as minhas atividades práticas de lógica de p
 * SOMAPARAMETROREFERENCIA.ALG: soma usando procedimento com referencia.
 * SEQUENCIADEFIBONACCI COM PROCEDIMENTO.ALG:  mesma sequencia só que usando procedimento.
 * PAR OU IMPAR.ALG: mesmo algoritmo de par ou impar usando procedimento.
+* DETECTOR PESADO.ALG: Algoritmo para descobrir o mais pesado usando procedimento.
 
 ## AVTIVIDADE COM FUNÇÃO
 * FATORIALCOMFUNCAO.ALG: mesmo algoritmo com fatorial usando função.
 * FUNCAOSOMA.ALG: Algoritmo de soma usando função.
-* DETECTOR PESADO.ALG: Algoritmo para descobrir o mais pesado usando função.
+* PAROUIMPARFUNÇÃO.ALG: algoritmo de par ou impar usando função.
   
 
   
