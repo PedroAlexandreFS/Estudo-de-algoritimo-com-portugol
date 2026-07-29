@@ -53,6 +53,12 @@ Este repositório foi criado para as minhas atividades práticas de lógica de p
 * SEQUENCIADEFIBONACCI COM PROCEDIMENTO.ALG:  mesma sequencia só que usando procedimento.
 * PAR OU IMPAR.ALG: mesmo algoritmo de par ou impar usando procedimento.
 
+## AVTIVIDADE COM FUNÇÃO
+* FATORIALCOMFUNCAO.ALG: mesmo algoritmo com fatorial usando função.
+* FUNCAOSOMA.ALG: Algoritmo de soma usando função.
+* DETECTOR PESADO.ALG: Algoritmo para descobrir o mais pesado usando função.
+  
+
   
 # TECNOLOGIAS
 * portugol / visualg.
