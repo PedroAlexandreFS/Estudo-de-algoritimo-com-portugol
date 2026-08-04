@@ -58,6 +58,7 @@ Este repositório foi criado para as minhas atividades práticas de lógica de p
 * `FATORIALCOMFUNCAO.ALG`: mesmo algoritmo com fatorial usando função.
 * `FUNCAOSOMA.ALG`: Algoritmo de soma usando função.
 * `PAROUIMPARFUNÇÃO.ALG`: algoritmo de par ou impar usando função.
+* `FUNÇÃOPREDEFINIDAS.ALG`: algoritmo para testa as funções predefinidas do visualg.
   
 
   
