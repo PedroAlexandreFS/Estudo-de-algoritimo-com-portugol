@@ -59,6 +59,11 @@ Este repositório foi criado para as minhas atividades práticas de lógica de p
 * `FUNCAOSOMA.ALG`: Algoritmo de soma usando função.
 * `PAROUIMPARFUNÇÃO.ALG`: algoritmo de par ou impar usando função.
 * `FUNÇÃOPREDEFINIDAS.ALG`: algoritmo para testa as funções predefinidas do visualg.
+
+## ATIVIDADE COM VERTORES
+* `TURMA.ALG`: algoritmo usando vetores para saber a media dos alunos
+* `SCOMC.ALG`: algoritmo para saber o nomes que começam com "C".
+* `TESTEDEVETOR.ALG`: algoritmo para testa o veto.
   
 
   
