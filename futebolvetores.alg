@@ -16,11 +16,10 @@ inicio
     escreval("------------------")
     escreval("TABELA DE PARTIDAS")
     escreval("------------------")
-    para c <- 1 ate 2 faca
-        para i <- c+1 ate 3 faca
-            se (tm[c] <> tm[i]) entao
-                escreval(tm[c], "      [] x [] ",tm[i])
-                escreval(tm[i], "      [] x [] ",tm[c])
+    para c <- 1 ate 3 faca
+        para i <- 1 ate 3 faca
+            se (c <> i) entao
+                escreval(tm[c]:12, " [] x [] ",tm[i])
             fimse
         fimpara
     fimpara
