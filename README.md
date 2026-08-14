@@ -66,8 +66,12 @@ Este repositório foi criado para as minhas atividades práticas de lógica de p
 * `TESTEDEVETOR.ALG`: algoritmo para testa o veto.
 * `RESERVACADEIRA.ALG`: algoritmo para reserva cadeira.
 * `FUTEBOLVETORES.ALG`: usando vetores para fazer um campeonato de futebol.
-* `CORREGINDOPROVA`: Usando vetores para corregi as provas.
-
+* `CORREGINDOPROVA.ALG`: Usando vetores para corregi as provas.
+## ATIVIDADE COM MATRIZ
+* `PARCOMMATRIZ.ALG`: procurando numeros pares na matriz.
+* `PREENCHERMATRIZ.ALG`: preenchendo uma matriz com valores.
+* `VALORESMATRIZ.ALG`: descobrindo valores duma matriz.
+* `MATRIZDE3OORDEM.ALG`: testando mariz de terceira ordem.
   
 # TECNOLOGIAS
 * portugol / visualg.
