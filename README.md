@@ -72,6 +72,8 @@ Este repositório foi criado para as minhas atividades práticas de lógica de p
 * `PREENCHERMATRIZ.ALG`: preenchendo uma matriz com valores.
 * `VALORESMATRIZ.ALG`: descobrindo valores duma matriz.
 * `MATRIZDE3OORDEM.ALG`: testando mariz de terceira ordem.
+* `JOGODAVELHA.ALG`: jogo da velha usando matriz.
+* `DISECANDOAMATRIZ.ALG`: porucarando valores em linha central,superior ou inferior.
   
 # TECNOLOGIAS
 * portugol / visualg.
